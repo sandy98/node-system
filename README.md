@@ -16,7 +16,7 @@ or, to make it available system-wide:
 require('node-system')
 
 //Use it with some shell command
-process('ls -l')
+process.system('ls -l')
 
 ```
 
