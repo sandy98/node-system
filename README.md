@@ -3,11 +3,11 @@ Adds a system function to process. Provides a simple way to execute shell comman
 
 ## Install
 
-```npm install node-system
+`npm install node-system`
 
 or, to make it available system-wide:
 
-``` sudo npm install -g node-system
+`sudo npm install -g node-system`
 
 ## Usage
 
