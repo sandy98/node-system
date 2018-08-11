@@ -1,0 +1,8 @@
+{
+  "name": "node-system",
+  "description": "Adds a system function to process. Provides a simple way to execute shell commands from within a node-repl",
+  "author": "Domingo E. Savoretti",
+  "version": "0.9.0",
+  "main": "index.js",
+  "license": "MIT"
+}
